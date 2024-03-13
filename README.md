@@ -262,25 +262,30 @@ print(le.inverse_transform(x_single_prediction))
 ```
 
 ## Dataset Information
+![image-1](https://github.com/SASIRAJ27/nn-classification/assets/113497176/8a562f89-df17-44e7-846c-5106e132e9c2)
 
-![alt text](image-1.png)
+
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-![alt text](image-2.png)
+![image-2](https://github.com/SASIRAJ27/nn-classification/assets/113497176/a2579f4a-304a-4b76-8391-57a354c8b1d4)
+
 
 ### Classification Report
+![image-3](https://github.com/SASIRAJ27/nn-classification/assets/113497176/4ee90838-5a19-4863-838e-0fe29ad8046d)
 
-![alt text](image-3.png)
+
 
 ### Confusion Matrix
 
-![alt text](image-4.png)
+![image-4](https://github.com/SASIRAJ27/nn-classification/assets/113497176/96315118-6b52-4764-9b39-1bfce05bfa83)
+
 
 
 ### New Sample Data Prediction
 
-![alt text](image-5.png)
+![image-5](https://github.com/SASIRAJ27/nn-classification/assets/113497176/93f1001b-3a59-473a-8f2d-2ff40cc8f1d9)
+
 
 ## RESULT
 A neural network classification model is developed for the given dataset.
